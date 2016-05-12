@@ -1,0 +1,55 @@
+1.- Importar archivo csv para luego exportar a un archivo json,
+con las caracteristicas solicitadas por la SET.
+
+
+|***********************|
+| sergiolov@gmail.com   |
+| 0981-686-746          |
+ ***********************
+
+IDE
+---------------------------------
+Java netbeans 8.1rc
+jdk 1.7_51
+compile.on.save=true
+user.properties.file=/home/sergio/.netbeans/8.1rc/build.properties
+---------------------------------
+OS
+---------------------------------
+Ubuntu 16.04
+---------------------------------
+Librerias
+--------------------------------- 
+json-simple.jar
+javacsv.jar
+
+---------------------------------
+Link
+---------------------------------
+1-http://www.set.gov.py/portal/PARAGUAY-SET/Home/Herramientas-
+1.1.-http://www.set.gov.py/portal/PARAGUAY-SET/Home/Herramientas/tesaka
+2-http://jsoneditoronline.org/
+3-http://www.java2s.com/Code/Jar/j/Downloadjsonsimple11jar.htm
+4-https://github.com/fangyidong/json-simple
+5-https://sourceforge.net/projects/javacsv/
+---------------------------------
+
+29/11/2015 00:36:326
+03/05/2016 16:56:13
+---------------------------------
+Log v3
+---------------------------------
+null
+null
+null
+null
+successful
+successful
+successful
+successful
+successful
+successful
+null
+successful
+---------------------------------
+
